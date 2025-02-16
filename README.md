@@ -10,4 +10,4 @@ The Wedding Guest Management Program is a Python-based application developed as 
 
 ## Overview
 1. **Login Page**
-2. 
+![Login Page](Login Page.png)
