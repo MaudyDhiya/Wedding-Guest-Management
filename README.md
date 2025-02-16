@@ -40,8 +40,8 @@ The Wedding Guest Management Program is a Python-based application developed as 
 ## How To Run
 Before running the program, make sure you have the following installed:
 1. Python
-2. Tabulate library for Python: pip install tabulate
+2. Tabulate library for Python: `pip install tabulate`
 3. Cloning the Repository
-4. Run the wedding_guest_management_capstone.py
+4. Run the `wedding_guest_management_capstone.py`
 5. Follow the prompts and instructions provided by the program to navigate through the menus and interact with the Wedding Guest Management.
 6. Exiting the Program.
