@@ -19,11 +19,11 @@ The Wedding Guest Management Program is a Python-based application developed as 
 ![Staff Menu](https://github.com/MaudyDhiya/Wedding-Guest-Management/blob/main/Image/Staff%20Menu.png?raw=true)
 
 ## Flowchart
-**1. Main Menu**
+## **1. Main Menu**
 ![Main Menu](https://github.com/MaudyDhiya/Wedding-Guest-Management/blob/main/Image/Main%20Menu.png?raw=true)
 
-**2. Admin Menu**
-![Admin Menu](https://github.com/MaudyDhiya/Wedding-Guest-Management/blob/main/Image/2.%20Admin%20Menu.drawio.png?raw=true)
+## **2. Admin Menu**
+![Admin Menu](https://github.com/MaudyDhiya/Wedding-Guest-Management/blob/main/Image/Admin%20Menu%20Flowchart.png?raw=true)
 
 2.1. **Add Guest Data - Admin Menu**
 ![Add Guest Data](https://github.com/MaudyDhiya/Wedding-Guest-Management/blob/main/Image/Admin%20Menu-Add%20Guest.png?raw=true)
@@ -34,7 +34,7 @@ The Wedding Guest Management Program is a Python-based application developed as 
 2.3. **Delete Guest Data**
 ![Delete Guest Data](https://github.com/MaudyDhiya/Wedding-Guest-Management/blob/main/Image/Staff%20Menu-Delete%20Guest.png?raw=true)
 
-**3. Staff Menu**
+## **3. Staff Menu**
 ![Staff Menu](https://github.com/MaudyDhiya/Wedding-Guest-Management/blob/main/Image/Staff%20Menu%20Flowchart.png?raw=true)
 
 ## How To Run
